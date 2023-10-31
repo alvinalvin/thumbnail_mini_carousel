@@ -35,7 +35,7 @@
 
 
 
-## Version [1.0] - 2023-10-31
+## Version [1.0.0] - 2023-10-31
 
 <ul>
 <li>Agregando modulo para joomla en su primera version</li>
