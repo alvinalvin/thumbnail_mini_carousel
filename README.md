@@ -26,3 +26,7 @@
 
 ![](https://github.com/alvinalvin/holamundo/blob/f692cf3b6beff751f07fdac84ff51c88eea99406/imagenoo.jpg)
 
+### licencia y derecho de autor
+Este módulo es software libre y tiene la licencia PÚBLICA GENERAL MENOR GNU. Copyright (C) 2023 Alvin Gil Saldaña - Todos los derechos reservados
+
+
