@@ -14,7 +14,7 @@
 
 
 <ul>
-<li>Busque el adminisrador de extensiones y dirijase al modulo </li>
+<li>Busque el administrador de extensiones y dirijase al modulo </li>
 </ul>
 
 ![](https://github.com/alvinalvin/holamundo/blob/8a0f40b14384a2ee7e2d17eea42ab4eeb104244c/imagen.jpg)
