@@ -3,6 +3,8 @@
  
 ![](https://github.com/alvinalvin/holamundo/blob/011715393661833e7d30e07329aaa93256994738/imgslide.jpg)
 
+### Instalación y uso
+
 <ul>
 <li>Instale el módulo usando Joomla! administrador de extensiones</li>
 </ul>
