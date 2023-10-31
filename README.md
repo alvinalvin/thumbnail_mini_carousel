@@ -1,2 +1,2 @@
-# thumbnail_mini_carousel
-Modulo para joomla que muestra imagenes en carousel en forma de miniaura .
+### Thumbnail mini carousel
+ Thumbnail mini carousel es un modulo para joomla basado en jquery que permite al usuario obtener una vista previa de imágenes grandes en una ventana emergente de carrusel estilo información sobre herramientas cuando hace clic en la imagen en miniatura.
