@@ -18,3 +18,11 @@
 </ul>
 
 ![](https://github.com/alvinalvin/holamundo/blob/8a0f40b14384a2ee7e2d17eea42ab4eeb104244c/imagen.jpg)
+
+
+<ul>
+<li>Seleccione las imagenes  configure el modulo </li>
+</ul>
+
+![](https://github.com/alvinalvin/holamundo/blob/f692cf3b6beff751f07fdac84ff51c88eea99406/imagenoo.jpg)
+
