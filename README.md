@@ -37,6 +37,10 @@
 
 ## Version [1.0] - 2023-10-31
 
+<ul>
+<li>Agregando modulo para joomla en su primera version</li>
+</ul>
+
 
 ### licencia y derecho de autor
 Este módulo es software libre y tiene la licencia PÚBLICA GENERAL MENOR GNU. Copyright (C) 2023 Alvin Gil Saldaña - Todos los derechos reservados
