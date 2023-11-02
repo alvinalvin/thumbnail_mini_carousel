@@ -43,8 +43,8 @@
 </ul>
 
 # Donaciones 
-<a href="https://www.paypal.com/donate/?hosted_button_id=B7YYDKUTNU8PS">donar</a>
-  
+
+  [![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/examples/images/7.jpg "李健首张专辑《似水流年》封面")
 
 
 ### licencia y derecho de autor
