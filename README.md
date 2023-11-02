@@ -42,6 +42,10 @@
 <li>Agregando modulo para joomla en su primera version</li>
 </ul>
 
+# Donaciones 
+<a title="" href="https://www.paypal.com/donate/?hosted_button_id=B7YYDKUTNU8PS"><img src="https://github.com/alvinalvin/holamundo/blob/1dce12abea45d82ecbce3423f7ecdeb3e5f275a5/PayPal-Donate-Button-PNG.png" alt="" /></a>
+
+
 
 ### licencia y derecho de autor
 Este módulo es software libre y tiene la licencia PÚBLICA GENERAL MENOR GNU. Copyright (C) 2023 Alvin Gil Saldaña - Todos los derechos reservados
