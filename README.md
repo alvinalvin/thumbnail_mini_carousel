@@ -43,7 +43,7 @@
 </ul>
 
 # Donaciones 
-<a title="Los Tejos" href="https://www.paypal.com/donate/?hosted_button_id=B7YYDKUTNU8PS"><img src="casarural.jpg" alt="Los Tejos" /></a>
+<a title="" href="https://www.paypal.com/donate/?hosted_button_id=B7YYDKUTNU8PS"><img src="https://github.com/alvinalvin/holamundo/blob/1dce12abea45d82ecbce3423f7ecdeb3e5f275a5/PayPal-Donate-Button-PNG.png" alt="" /></a>
 
 
 
