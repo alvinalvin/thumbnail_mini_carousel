@@ -22,24 +22,24 @@ $svg = JURI::base()."modules/mod_thumbnail_mini_carousel/fonts/h-smart-icon.svg"
   font-weight: normal;
   font-style: normal;
 }
+
 </style>
 <!-- html -->
 <div class="container">
-
-		<div class="plugin" style="display:none">
+  <div class="plugin" style="display:none">
       <ul>
-        <?php foreach ($img as $value){?>
+        <?php foreach ($img as $value):?>
           <li>
             <img src="<?php echo $value->image; ?>">
           </li>
-        <?php } ?>
-        </ul>
-      </div>
-    </div>
+        <?php endforeach; ?>
+      </ul>
+  </div>
+</div>
   <!-- script -->
-  <script type="text/javascript">
+   <script type="text/javascript">
 		$('.plugin').hSmartThumbnail();
 		$('.plugin').imagesLoaded( function() {
   $('.plugin').css("display", "block");
-});
-	</script>
+   });
+  </script>
