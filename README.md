@@ -43,7 +43,7 @@
 </ul>
 
 # Donaciones 
-<a title="Los Tejos" href="<http://www.lostejos.com>"><img src="casarural.jpg" alt="Los Tejos" /></a>
+<a title="Los Tejos" href="https://www.paypal.com/donate/?hosted_button_id=B7YYDKUTNU8PS"><img src="casarural.jpg" alt="Los Tejos" /></a>
 
 
 
