@@ -44,7 +44,7 @@
 
 # Donaciones 
 
-  [![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/examples/images/7.jpg "李健首张专辑《似水流年》封面")
+  [![](https://github.com/alvinalvin/holamundo/blob/1dce12abea45d82ecbce3423f7ecdeb3e5f275a5/PayPal-Donate-Button-PNG.png)](https://www.paypal.com/donate/?hosted_button_id=B7YYDKUTNU8PS")
 
 
 ### licencia y derecho de autor
