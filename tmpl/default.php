@@ -22,7 +22,6 @@ $svg = JURI::base()."modules/mod_thumbnail_mini_carousel/fonts/h-smart-icon.svg"
   font-weight: normal;
   font-style: normal;
 }
-
 </style>
 <!-- html -->
 <div class="container">

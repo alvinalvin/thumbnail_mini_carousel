@@ -28,7 +28,7 @@
 
 .h-smart-thumbnail-container ul.h-smart-thumbnail li:hover{
 	border: 1px solid var(--li-border-color);
-  border-color:green ;
+  /* border-color:green ; */
 	cursor: pointer;
 }
 
