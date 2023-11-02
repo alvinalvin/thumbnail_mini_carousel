@@ -78,6 +78,12 @@
 					<option
 						value="static"></option>
 				</field>
+
+				<updateservers>
+        <server type="extension" name="THUMBNAIL MINI CAROUSEL">https://github.com/alvinalvin/thumbnail-mini-carousel-/blob/main/thumbnail-mini-carousel.xml</server>
+       </updateservers>
+
+
 			</fieldset>
 </fields>
 	</config>

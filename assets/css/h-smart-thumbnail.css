@@ -48,8 +48,7 @@
 
 .h-smart-thumbnail-container ul.h-smart-thumbnail li.active{
 	border: 1px solid var(--li-border-color);
-
-}
+  }
 
 .h-smart-thumbnail-container ul.h-smart-thumbnail li.active:after{
 	display: block;
