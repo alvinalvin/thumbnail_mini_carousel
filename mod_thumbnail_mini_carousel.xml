@@ -13,7 +13,7 @@
 	<authorUrl>https://github.com/alvinalvin</authorUrl>
 	<copyright>Copyright © 2023 - All rights reserved.</copyright>
 	<license>GNU General Public License v2.0</license>
-	<version>0.0.1</version>
+	<version>1.1.0</version>
 	<description>MOD_THUMBNAIL_MINI_CAROUSEL_DESCRIPTION</description>
 	<files>
 		<filename module="mod_thumbnail_mini_carousel">mod_thumbnail_mini_carousel.php</filename>
