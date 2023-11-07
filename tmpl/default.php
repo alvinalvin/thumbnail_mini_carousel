@@ -1,3 +1,4 @@
+<?php
 /* thumbnail_mini_carousel for Joomla!
 --------------------------------------------------------------
  * @copyright	Copyright © 2023 - All rights reserved.
@@ -7,7 +8,6 @@
  Created: November 2023
  @license		GNU General Public License v2.0
  --------------------------------------------------------------- */
-<?php
 defined('_JEXEC') or die;
 // jquery
 JHtml::_('jquery.framework');
