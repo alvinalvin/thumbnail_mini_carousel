@@ -1,9 +1,13 @@
 <?php
-/**
+/* thumbnail_mini_carousel for Joomla!
+--------------------------------------------------------------
  * @copyright	Copyright © 2023 - All rights reserved.
- * @license		GNU General Public License v2.0
- * @generator	https://xdsoft/joomla-module-generator/
- */
+ GitHub: https://github.com/alvinalvin
+ Developer: Alvin Gil Saldaña
+ E-mail: alvin_gil@hotmail.com
+ Created: November 2023
+ @license		GNU General Public License v2.0
+ --------------------------------------------------------------- */
 defined('_JEXEC') or die;
 
 $doc = JFactory::getDocument();

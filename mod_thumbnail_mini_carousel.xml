@@ -1,19 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><!--
-/**
+<?xml version="1.0" encoding="utf-8"?>
+/* thumbnail_mini_carousel for Joomla!
+--------------------------------------------------------------
  * @copyright	Copyright © 2023 - All rights reserved.
- * @license		GNU General Public License v2.0
- * @generator	https://xdsoft/joomla-module-generator/
- */
--->
+ GitHub: https://github.com/alvinalvin
+ Developer: Alvin Gil Saldaña
+ E-mail: alvin_gil@hotmail.com
+ Created: November 2023
+ @license		GNU General Public License v2.0
+ --------------------------------------------------------------- */
+
 <extension type="module" method="upgrade" client="site">
 	<name>MOD_THUMBNAIL_MINI_CAROUSEL</name>
-	<creationDate>Oct 2023</creationDate>
+	<creationDate>Nov 2023</creationDate>
 	<author>Alvin Gil Saldaña</author>
 	<authorEmail>alvin_gil@hotmail.com</authorEmail>
 	<authorUrl>https://github.com/alvinalvin</authorUrl>
 	<copyright>Copyright © 2023 - All rights reserved.</copyright>
 	<license>GNU General Public License v2.0</license>
-	<version>1.1</version>
+	<version>1.0</version>
 	<description>MOD_THUMBNAIL_MINI_CAROUSEL_DESCRIPTION</description>
 	<files>
 		<filename module="mod_thumbnail_mini_carousel">mod_thumbnail_mini_carousel.php</filename>
