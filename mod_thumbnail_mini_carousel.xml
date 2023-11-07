@@ -8,13 +8,13 @@
 
 <extension type="module" method="upgrade" client="site">
 	<name>MOD_THUMBNAIL_MINI_CAROUSEL</name>
-	<creationDate>N 2023</creationDate>
+	<creationDate>November 2023</creationDate>
 	<author>Alvin Gil Saldaña</author>
 	<authorEmail>alvin_gil@hotmail.com</authorEmail>
 	<authorUrl>https://github.com/alvinalvin</authorUrl>
 	<copyright>Copyright © 2023 - All rights reserved.</copyright>
 	<license>GNU General Public License v2.0</license>
-	<version>1.1</version>
+	<version>1.0</version>
 	<description>MOD_THUMBNAIL_MINI_CAROUSEL_DESCRIPTION</description>
 	<files>
 		<filename module="mod_thumbnail_mini_carousel">mod_thumbnail_mini_carousel.php</filename>
