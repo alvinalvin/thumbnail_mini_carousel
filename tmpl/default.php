@@ -10,8 +10,9 @@
  --------------------------------------------------------------- */
 defined('_JEXEC') or die;
 // jquery
-JHtml::_('jquery.framework');
-JHtml::script('https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js');
+use Joomla\CMS\HTML\HTMLHelper;
+HTMLHelper::_('jquery.framework');
+HTMLHelper::script('https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js');
 // root
 $eot = JURI::base()."modules/mod_thumbnail_mini_carousel/fonts/h-smart-icon.eot";
 $woff = JURI::base()."modules/mod_thumbnail_mini_carousel/fonts/h-smart-icon.woff";
