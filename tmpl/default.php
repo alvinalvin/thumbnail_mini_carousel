@@ -11,6 +11,7 @@
 defined('_JEXEC') or die;
 // jquery
 use Joomla\CMS\HTML\HTMLHelper;
+use \Joomla\CMS\Factory;
 HTMLHelper::_('jquery.framework');
 HTMLHelper::script('https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js');
 // root

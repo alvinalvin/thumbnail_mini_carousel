@@ -9,7 +9,8 @@
  @license		GNU General Public License v2.0
  --------------------------------------------------------------- */
 defined('_JEXEC') or die;
-
+use \Joomla\CMS\Helper\ModuleHelper;
+use \Joomla\CMS\Factory;
 $doc = JFactory::getDocument();
 $images	= $params->get("images");
 $img = (array) $images ;
