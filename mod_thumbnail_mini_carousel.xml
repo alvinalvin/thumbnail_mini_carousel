@@ -24,6 +24,7 @@
 		<folder>tmpl</folder>
 		<folder>assets</folder>
 		<folder>fonts</folder>
+		<folder>form</folder>
 	</files>
 	<config>
 		<fields name="params">
