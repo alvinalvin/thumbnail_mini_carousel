@@ -42,6 +42,12 @@ Thumbnail Mini Carousel is a jquery based module for Joomla that allows the user
 <li>Adding module for Joomla in its first version</li>
 </ul>
 
+## Version [1.1] - 2024-08-25
+
+<ul>
+<li>Compatibility with joomla 5 </li>
+</ul>
+
 # Donate
 <a title="" href="https://www.paypal.com/donate/?hosted_button_id=B7YYDKUTNU8PS"><img src="https://github.com/alvinalvin/holamundo/blob/1dce12abea45d82ecbce3423f7ecdeb3e5f275a5/PayPal-Donate-Button-PNG.png" alt="" /></a>
 
